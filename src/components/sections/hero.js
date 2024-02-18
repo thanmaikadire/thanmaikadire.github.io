@@ -80,13 +80,9 @@ const Hero = ({ data }) => {
       dangerouslySetInnerHTML={{ __html: html }}
     />
   );
-  const five = () => (
-    <div style={{ transitionDelay: '500ms' }}>
-      <StyledEmailLink href={'https://huggingface.co/pbilla'}>Check out my spaces on HuggingFace!</StyledEmailLink>
-    </div>
-  );
+ 
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledContainer>

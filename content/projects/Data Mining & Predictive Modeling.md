@@ -2,8 +2,9 @@
 date: '2023'
 title: 'Data Mining & Predictive Modeling'
 github: ''
-external: 'https://github.com/billaprut/RStudio-Airbnb-Data-Mining'
+external: 'https://github.com/thanmaikadire/Data_Mining'
 tech:
+  - Data Analytics 
   - Machine Learning
   - R
   - RStudio

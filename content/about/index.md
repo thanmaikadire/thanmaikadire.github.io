@@ -2,26 +2,25 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Machine Learning
-  - Data Science
-  - Python,R,C++,C,Node.js
-  - SQL
-  - Big Data Framework
-  - Tableau
-  - QGIS
-  - AWS
-  - JIRA
-  - Git & Jenkins (CI/CD)
+  - Business and Data Analysis 
+  - Project Management 
+  - Python,R,SQL 
+  - Big Data & AI
+  - Tableau, Power BI 
+  - Finance Information Systems 
+  - Microsoft Office Suite
+  - Agile Methodologies 
+  - SAP
 
 ---
 
-I love bringing data to life in innovative ways. My journey into the data world began in 2015 when I started experimenting with data sets 
-for fun — it turns out that analyzing trends opened my eyes to the power of Python and R! This initial curiosity sparked a passion for 
-uncovering hidden patterns and insights, guiding me through the fascinating world of machine learning and AI. Each project, from predictive 
-modeling to AI-driven solutions, has been a step toward mastering the art of turning data into actionable knowledge.
+I grew up with a generation that witnessed the world change, adopt, and prosper digitally, economically, and technologically. Our imagination came with no boundaries, for everything we thought was merely a fragment of one’s mind was transformed into an everyday essential of the era. I too was taken aback with the extent of modernisation and evolution the sphere of software brought with itself. For having my mind set onto acquiring the power necessary to make a significant change, I was persistent to grow academically and professionally in the field of computer science and Information Systems. 
 
-Fast-forward to today, and I’ve had the privilege of working at [a multinational IT services & consulting company](https://www.tcs.com/), [a space start-up](https://www.pixxel.space/) and [an educational institution](https://extension.umd.edu/node/1/).
+It started with how computers and their development fascinated me, encouraged me to pursue a career in a relevant field. From my childhood, I prepared to draw myself onto the path of computer science engineering. I successfully pursued a bachelor’s degree in computer science from Jain University with an aggregate of 3.6 qualifying as a merit student. I always focused on acquiring knowledge and skills that were not taught in the classroom but simultaneously bloomed in the marketplace.
 
-I also recently launched a [web application](https://pbilla.pythonanywhere.com/) that predicts the booking rate of Airbnb listings.
+While pursuing Master's at Robert H. Smith School of Business, I discovered that my innate ability to manage people, time and resources could be combined with my interests for information systems to produce a synergy in field of management information systems. With sound technical knowledge and practical abilities, communication, and interpersonal skills, I bring to the table an explicit amount of passion and productivity proving my caliber to succeed as an Analyst. Working as a Business Analyst in Capgemini, a multinational IT services & consulting company and University of Maryland, School of Public Health, I play to plug in the current global trends into the realm of advancement to create energy that boosts a harmonious tomorrow. 
 
-Here is a list of the technologies that I'm familiar with!
+I finally aim to stay on the lookout for current problems and generate solutions by utilising the potential of software, resources, and information holistically by serving as the wing of the future. 
+
+My skills include: 
+

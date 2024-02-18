@@ -2,7 +2,7 @@
 date: '2023'
 title: 'Stack Exchange Topic Prediction'
 github: ''
-external: 'https://github.com/billaprut/AI-Big-Data-Stack-Exchange-Topic-Prediction'
+external: 'https://github.com/thanmaikadire/Big-Data-AI-for-Business'
 tech:
   - PyTorch
   - PySpark

@@ -1,11 +1,11 @@
 ---
 date: '2022'
-title: 'Database Management'
+title: 'Database Management Systems - Taipei 101 Computers'
 github: ''
-external: 'https://github.com/billaprut/Database-Management-Systems'
+external: 'https://github.com/thanmaikadire/Database_Management_Systems'
 tech:
   - Microsoft-SQL-Server
 showInProjects: true
 ---
 
-Designed and enhanced UMD MS Program Office's attendance database.
+Designed and implemented a scalable database for an online laptop store, resulting in a notable 30% improvement in data management efficiency.

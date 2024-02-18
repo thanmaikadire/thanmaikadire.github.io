@@ -2,7 +2,7 @@
 date: '1'
 title: 'Portfolio Management'
 cover: 'cover.png'
-github: 'https://github.com/billaprut/Stocks-Portfolio-Management-Finance-Analytics'
+github: 'https://github.com/thanmaikadire/Finance'
 external: ''
 tech:
   - Python

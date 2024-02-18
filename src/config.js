@@ -1,24 +1,24 @@
 module.exports = {
-  siteTitle: 'Pruthvi Billa | Information Systems Graduate Student | Data Scientist | ML Engineer | Software Engineer ',
+  siteTitle: 'Thanmai Reddy',
   siteDescription:
-    'Pruthvi Billa is a Information Systems Graduate Student at University of Maryland, who loves learning new things.',
+    'Thanmai Reddy is a Information Systems Graduate Student at University of Maryland, who loves learning new things.',
   siteKeywords:
-    'Pruthvi Billa, Pruthvi, Billa, billaprut, data scientist, software developer, software engineer, cloud engineer, ml engineer, web developer, python developer',
-  siteUrl: 'https://github.com/billaprut/billaprut.github.io',
+    'Thanmai Reddy, Pruthvi, Billa, billaprut, data scientist, software developer, software engineer, cloud engineer, ml engineer, web developer, python developer',
+  siteUrl: 'https://github.com/thanmaikadire/thanmaikadire.github.io',
   siteLanguage: 'en_US',
-  name: 'Pruthvi Billa',
+  name: 'Thanmai Reddy',
   location: 'College Park, Maryland',
-  email: 'pruthvishyamb@gmail.com',
-  github: 'https://github.com/billaprut',
+  email: 'kadirethanmaireddy@gmail.com',
+  github: 'https://github.com/thanmaikadire',
   twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/billaprut',
+      url: 'https://github.com/thanmaikadire',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/pruthvi-billa/',
+      url: 'https://www.linkedin.com/in/thanmai-reddy-k/',
     },
   ],
 

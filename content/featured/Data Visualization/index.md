@@ -3,7 +3,7 @@ date: '3'
 title: 'Data Visualization'
 cover: 'cover.png'
 github: ''
-external: 'https://public.tableau.com/app/profile/pruthvi.shyam.billa6944/viz/AirbnbPricing_16908301942940/Story1'
+external: 'https://public.tableau.com/app/profile/thanmai.reddy.kadire/viz/Airbnb-TableauFinalProject/Story1?publish=yes'
 tech:
   - Tableau
   - Story
