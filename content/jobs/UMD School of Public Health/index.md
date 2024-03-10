@@ -1,7 +1,7 @@
 ---
 date: '2024-01-15'
 title: 'Business Analyst'
-company: 'University of Maryland, School of Public Health'
+company: 'UMD, School of Public Health'
 location: 'College Park, MD'
 range: 'January 2024 - Present'
 url: 'https://sph.umd.edu/'
