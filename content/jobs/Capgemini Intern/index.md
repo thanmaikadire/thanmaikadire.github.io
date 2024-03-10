@@ -1,7 +1,7 @@
 ---
 date: '2021-01-08'
 title: 'Analyst - Intern'
-company: 'Capgemini - Internship'
+company: 'Capgemini - Intern'
 location: 'Pune, Maharastra, India'
 range: 'Jan 2021 - May 2021'
 url: 'https://www.capgemini.com/'

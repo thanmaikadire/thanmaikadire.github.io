@@ -1,7 +1,7 @@
 ---
 date: '2023-06-05'
 title: 'Business Analyst'
-company: 'University of Maryland, School of Public Health - Internship'
+company: 'University of Maryland, School of Public Health - Intern'
 location: 'College Park, MD'
 range: 'June 2023 - December 2023'
 url: 'https://sph.umd.edu/'
