@@ -7,8 +7,8 @@ range: 'June 2021 - July 2022'
 url: 'https://www.capgemini.com/'
 ---
 
-- Boosted financial efficiency by 5% with Python and SQL, enhancing decision-making and cost efficiency.
+- Boosted data efficiency by 5% with Python and SQL, enhancing decision-making and cost efficiency.
 - Cut processing times through improved data analysis workflows with advanced programming.
 - Identified KPIs, trends, and patterns to inform strategic insights.
-- Reduced attrition rates by 10% by addressing key turnover factors
+- Reduced attrition rates by 10% by addressing key turnover factors. 
 

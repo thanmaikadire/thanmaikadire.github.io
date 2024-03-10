@@ -1,15 +1,19 @@
 ---
-date: '2023-06-05'
+date: '2024-01-15'
 title: 'Business Analyst'
 company: 'University of Maryland, School of Public Health'
 location: 'College Park, MD'
-range: 'June 2023 - Present'
+range: 'January 2024 - Present'
 url: 'https://sph.umd.edu/'
 ---
 
-- Enhanced research projects accounts and resolved issues via strategic data and database management.
-- Managed $10M+ budgets, optimizing financial processes by uitilizing tools such as Workday, BA4 and KFS. 
-- Exceeded financial targets by $5M through strategic analysis and streamlining.
-- Streamlined communications using Microsoft Office Suite for various presentations, updates etc. 
+
+
+- Perform comprehensive data analysis, enhancing system design and implementation, which improves user satisfaction by 5%, aligning closely with the department’s business objectives.
+- Transform complex raw data into clear, concise, and actionable insights, effectively communicating key findings to faculty members and senior management to support strategic decision-making.
+- Enhance research projects accounts and resolved issues via strategic data and database management.
+
+
+
 
 
