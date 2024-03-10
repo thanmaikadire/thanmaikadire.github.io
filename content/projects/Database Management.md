@@ -1,6 +1,6 @@
 ---
 date: '2022'
-title: 'Database Management Systems - Taipei 101 Computers'
+title: 'Database Management Systems'
 github: ''
 external: 'https://github.com/thanmaikadire/Database_Management_Systems'
 tech:
