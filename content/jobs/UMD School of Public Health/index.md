@@ -3,7 +3,7 @@ date: '2024-01-15'
 title: 'Business Analyst'
 company: 'UMD, School of Public Health'
 location: 'College Park, MD'
-range: 'January 2024 - Present'
+range: 'January 2024 - June 2024'
 url: 'https://sph.umd.edu/'
 ---
 
