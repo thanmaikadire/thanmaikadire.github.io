@@ -9,7 +9,7 @@
 
 <div style="text-align:center">
 
-  <img alt="Demo" src="https://github.com/billaprut/billaprut.github.io/blob/main/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/thanmaikadire/thanmaikadire.github.io/blob/main/src/images/demo.png" />
 
 </div>
 
