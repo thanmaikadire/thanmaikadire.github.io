@@ -2,15 +2,19 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Business and Data Analysis 
+  - Data Science 
+  - Artificial Intelligence & Machine Learning 
+  - Data Engineering and Analytics
+  - NLP, Neural Networks
+  - Python, R, SQL, C, C++, Java
+  - Predictive Modeling and forecasting
   - Project Management 
-  - Python,R,SQL 
   - Big Data & AI
-  - Tableau, Power BI 
-  - Finance Information Systems 
-  - Microsoft Office Suite
-  - Agile Methodologies 
-  - SAP
+  - Alteryx, Tableau, Power BI 
+  - Finance Analytics using AI
+  - SDLC, Agile, JIRA 
+  - SAP, SAS, SaaS 
+  
 
 ---
 
