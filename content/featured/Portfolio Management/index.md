@@ -1,14 +1,15 @@
 ---
 date: '1'
-title: 'Portfolio Management'
+title: 'Fraud Detection'
 cover: 'cover.png'
-github: 'https://github.com/thanmaikadire/Finance'
+github: 'https://github.com/thanmaikadire/Fraud-Detection-Analysis-Finance-Analytics'
 external: ''
 tech:
+  - Machine Learning
+  - XGBoost
   - Python
-  - Monte Carlo
-  - Bollinger Bands
+
 
 ---
 
-Utilized technical analysis methods such as moving averages and Bollinger Bands to guide the selection of financial instruments and achieve maximum sharpe. The optimization process involved balancing the trade-off between return and risk, leading to a portfolio that outperformed the benchmark index in terms of risk-adjusted returns.
+Implemented an XGBoost classifier for credit card fraud detection, achieving 97% precision, and 91% recall on the test set, with optimized hyperparameters.
