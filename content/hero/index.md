@@ -1,8 +1,10 @@
 ---
 title: 'Hello, Welcome to'
 name: 'Thanmai Reddy''s Website'
-subtitle: 'Business and Data strategy tells the story; analysis writes the next chapter!'
+subtitle: 'Data strategy tells the story; analysis writes the next chapter!'
 buttonText: 'Contact Me'
 ---
 
-In my role as a Business Analyst, I've honed the art of turning data into decisions, leveraging my analytical prowess to unearth insights that fuel business growth. With a toolkit enriched by Tableau, Python, SQL, and Excel, I navigate through complex datasets with ease, guiding companies towards operational excellence and financial robustness. My approach combines sharp analysis with clear communication, ensuring that even the most complex findings are accessible and actionable. With a track record of driving efficiency and aligning strategies with organizational ambitions, I stand at the forefront of data-driven transformation, ready to lead businesses into their next chapter of innovation and success.
+Leveraging a rich foundation in analytics, I excel in driving transformative business solutions across various sectors. My professional journey is marked by a profound engagement in analytics, software development, data science, AI/ML and a comprehensive project oversight, ensuring a holistic approach to problem-solving.
+
+Expertly navigating through complex data landscapes, I am adept at harnessing sophisticated analytical tools to streamline processes and enhance business outcomes. My capabilities extend to crafting advanced software systems and pioneering applications of machine learning and deep learning, aligning with cutting-edge technological advancements. This unique combination of skills enables me to deliver impactful, scalable solutions that not only meet but anticipate market needs, ensuring sustained organizational growth.

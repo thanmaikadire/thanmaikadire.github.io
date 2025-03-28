@@ -3,28 +3,28 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - Data Science 
-  - Artificial Intelligence & Machine Learning 
+  - AI & ML
   - Data Engineering and Analytics
+  - Big Data 
   - NLP, Neural Networks
   - Python, R, SQL, C, C++, Java
-  - Predictive Modeling and forecasting
   - Project Management 
-  - Big Data & AI
   - Alteryx, Tableau, Power BI 
   - Finance Analytics using AI
   - SDLC, Agile, JIRA 
-  - SAP, SAS, SaaS 
   
 
 ---
 
-I grew up with a generation that witnessed the world change, adopt, and prosper digitally, economically, and technologically. Our imagination came with no boundaries, for everything we thought was merely a fragment of one’s mind was transformed into an everyday essential of the era. I too was taken aback with the extent of modernisation and evolution the sphere of software brought with itself. For having my mind set onto acquiring the power necessary to make a significant change, I was persistent to grow academically and professionally in the field of Computer Science and Information Systems. 
+I am a recent Information Systems graduate from the prestigious University of Maryland, equipped with over six years of industry experience spanning the full spectrum of the software development lifecycle. My professional journey has been rich and varied, having contributed to projects at multinational IT services & consulting companies, and a prominent educational institution, I have honed my analytical acumen across diverse sectors such as finance, healthcare, real estates, and product based industires. 
 
-It started with how computers and their development fascinated me, encouraged me to pursue a career in a relevant fields. From my childhood, I prepared to draw myself onto the path of computer science engineering. I always focused on acquiring knowledge and skills that were not taught in the classroom but simultaneously bloomed in the marketplace.
+"Data is the new soil, fertile with potential and brimming with opportunity!"
 
-While pursuing Master's at Robert H. Smith School of Business, I discovered that my innate ability to manage people, time and resources could be combined with my interests for information systems to produce a synergy in field of management information systems. With sound technical knowledge and practical abilities, communication, and interpersonal skills, I bring to the table an explicit amount of passion and productivity proving my caliber to succeed as an Analyst. Working as a Business Analyst in Capgemini, a multinational IT services & consulting company and University of Maryland, School of Public Health, I play to plug in the current global trends into the realm of advancement to create energy that boosts a harmonious tomorrow. 
+My fascination with data began in 2019, driven by a curiosity to explore datasets and uncover hidden patterns. This initial exploration ignited a deep-seated passion for data science, leading me through the intricate realms of machine learning and artificial intelligence. Each project I've undertaken, from predictive modeling to crafting AI-driven solutions, has been a crucial step towards refining my ability to transform complex data into actionable insights.
 
-I finally aim to stay on the lookout for current problems and generate solutions by utilising the potential of software, resources, and information holistically by serving as the wing of the future. 
+Today, I leverage this extensive background to deliver innovative data-centric solutions, continually pushing the boundaries of what is possible with data to drive significant business impact and strategic decision-making.
 
-My skills include: 
+
+Central to my daily work are the following skills:
+
 

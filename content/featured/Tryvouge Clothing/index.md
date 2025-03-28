@@ -1,6 +1,6 @@
 ---
-date: '2'
-title: 'Tryvouge Clothing'
+date: '1'
+title: 'Hugging Face Summarization'
 cover: 'cover.png'
 github: 'https://github.com/thanmaikadire/Business_Process_Analysis'
 cta: ''

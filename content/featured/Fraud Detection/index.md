@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Fraud Detection'
 cover: 'cover.png'
 github: 'https://github.com/thanmaikadire/Fraud-Detection-Analysis-Finance-Analytics'

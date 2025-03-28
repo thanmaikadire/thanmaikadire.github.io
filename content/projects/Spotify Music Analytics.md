@@ -2,7 +2,7 @@
 date: '2022'
 title: 'Spotify Music Analytics using Python'
 github: ''
-external: 'https://github.com/billaprut/Football-Data-Analytics'
+external: 'https://github.com/thanmaikadire/Spotify-Data-Analysis-Python_Programming'
 tech:
   - Python
   - Pandas
