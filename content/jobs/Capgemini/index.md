@@ -1,6 +1,6 @@
 ---
 date: '2022-07-31'
-title: 'Business Analyst'
+title: 'Analytics Engineer'
 company: 'Capgemini'
 location: 'Pune, Maharastra, India'
 range: 'January 2021 - July 2022'

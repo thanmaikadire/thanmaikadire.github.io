@@ -3,7 +3,7 @@ date: '2024-01-15'
 title: 'Data Scientist'
 company: 'Tata Consultancy Services'
 location: 'Bengaluru, KA, India'
-range: 'January 2024 - June 2024'
+range: 'May 2019 - December 2020'
 url: 'https://www.tcsion.com/about-us/'
 ---
 

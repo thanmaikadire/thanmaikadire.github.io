@@ -1,9 +1,9 @@
 ---
 date: '2024-01-15'
-title: 'Analyst'
+title: 'Senior Analyst'
 company: 'University of Maryland'
 location: 'College Park, MD, USA'
-range: 'June 2022 - Present'
+range: 'October 2022 - Present'
 url: 'https://umd.edu/'
 ---
 
