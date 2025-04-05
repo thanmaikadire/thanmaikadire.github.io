@@ -1,5 +1,5 @@
 ---
-date: '2024-01-15'
+date: '2020-12-15'
 title: 'Data Scientist'
 company: 'Tata Consultancy Services'
 location: 'Bengaluru, KA, India'

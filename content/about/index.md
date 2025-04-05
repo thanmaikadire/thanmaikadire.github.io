@@ -2,9 +2,10 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
+  - Data Analytcis 
   - Data Science 
   - AI & ML
-  - Data Engineering and Analytics
+  - Data Engineering
   - Big Data 
   - NLP, Neural Networks
   - Python, R, SQL, C, C++, Java
@@ -16,7 +17,7 @@ skills:
 
 ---
 
-I am a recent Information Systems graduate from the prestigious University of Maryland, equipped with over six years of industry experience spanning the full spectrum of the software development lifecycle. My professional journey has been rich and varied, having contributed to projects at multinational IT services & consulting companies, and a prominent educational institution, I have honed my analytical acumen across diverse sectors such as finance, healthcare, real estates, and product based industires. 
+I am a recent Information Systems graduate from the prestigious University of Maryland, equipped with over six years of industry experience spanning the full spectrum of the software development lifecycle. My professional journey has been rich and varied, having contributed to projects at multinational IT services & consulting companies, I have honed my analytical acumen across diverse sectors such as healthcare, real estates, transportation, E-Commerce and product based industires. 
 
 "Data is the new soil, fertile with potential and brimming with opportunity!"
 
