@@ -3,8 +3,8 @@ date: '2024-06-15'
 title: 'Data Analyst'
 company: 'Johnson & Johnson'
 location: 'Dallas, TX, USA'
-range: 'October 2022 - Present'
-url: 'https://umd.edu/'
+range: 'October 2022 - June 2024'
+url: 'https://www.jnj.com'
 ---
 
 - Designed and maintained advanced financial risk models in Python, leveraging NLP techniques to enhance fraud detection and ensure secure transaction processing across university systems.

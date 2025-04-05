@@ -1,10 +1,10 @@
 ---
-date: '2022-07-31'
+date: '2025-06-30'
 title: 'Data Analyst'
-company: 'Capgemini'
-location: 'Pune, Maharastra, India'
-range: 'January 2021 - July 2022'
-url: 'https://www.capgemini.com/'
+company: 'Southwest Airlines'
+location: 'Dallas, Teaxs, United States'
+range: 'June 2024 - Present'
+url: 'https://www.southwest.com/'
 ---
 
 - Developed scalable data workflows to support predictive modeling of employee turnover, enabling proactive retention strategies.
