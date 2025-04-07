@@ -7,11 +7,9 @@ range: 'June 2024 - Present'
 url: 'https://www.southwest.com/'
 ---
 
-- Developed scalable data workflows to support predictive modeling of employee turnover, enabling proactive retention strategies.
-- Created dashboards using visualization tools such as Tableau and Power BI and advanced data anlytics techniquies to surface key workforce trends, aiding HR teams in data-driven decision-making.
--   Collaborated with data engineers, project managers, and stakeholders to transform employee attrition insights into data-driven strategies that supported targeted retention initiatives.
-- Conducted data quality checks and performance testing to ensure accuracy and efficiency across analytics pipelines.
-- As an intern, I helped develop a responsive E-Commerce platform for a retail client using HTML, CSS, and JavaScript, enhancing UI/UX and optimizing product display and pricing strategies to boost user engagement and conversions.
+- Southwest Airlines, is one of the top four domestic airlines in the United States, renowned for its exceptional customer service and operational efficiency. The airline is dedicated to providing affordable and accessible air travel, leveraging innovative strategies to enhance passenger experience and optimize flight operations.
+
+Summary of Tenure at Southwest Airlines: In my role as a Data Analyst at Southwest Airlines, I significantly advanced operational and customer service efficiency through strategic use of AI and machine learning. I enhanced customer interactions by refining chatbots with LLM models, improving response times by 20%. My implementation of predictive models using Python and AI technologies optimized flight schedules and passenger booking processes, greatly enhancing decision-making and operational agility. I also led the development of automated systems for real-time data analysis using Power BI and Hadoop, which streamlined financial transactions and boosted revenue management effectiveness. Through collaborative leadership, I drove technology integrations that fortified data analytics frameworks, directly boosting profitability and customer satisfaction.
 
 
 
