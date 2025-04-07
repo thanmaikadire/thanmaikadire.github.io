@@ -2,17 +2,18 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Data Analytcis 
+  - Data Analytics 
   - Data Science 
   - AI & ML
   - Data Engineering
   - Big Data 
   - NLP, Neural Networks
-  - Python, R, SQL, C, C++, Java
-  - Project Management 
+  - Project Management
+  - SDLC, Agile, JIRA 
+  - Python, R, SQL, C, C++, Java 
   - Alteryx, Tableau, Power BI 
   - Finance Analytics using AI
-  - SDLC, Agile, JIRA 
+ 
   
 
 ---

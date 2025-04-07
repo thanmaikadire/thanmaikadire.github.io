@@ -18,7 +18,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/thanmai-reddy-k/',
+      url: 'https://www.linkedin.com/in/thanmai-reddy-analyst/',
     },
   ],
 
