@@ -1,6 +1,6 @@
 ---
 date: '2020-12-15'
-title: 'Data Scientist'
+title: 'Business Intelligence/ Data Science/ Data Analytics'
 company: 'Tata Consultancy Services'
 location: 'Bengaluru, KA, India'
 range: 'May 2019 - December 2020'

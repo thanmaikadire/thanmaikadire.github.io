@@ -1,6 +1,6 @@
 ---
 date: '2022-07-31'
-title: 'Data Analyst'
+title: 'Data Analytics/ Business Intelligence'
 company: 'Capgemini'
 location: 'Pune, Maharastra, India'
 range: 'January 2021 - July 2022'

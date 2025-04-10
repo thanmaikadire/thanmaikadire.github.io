@@ -1,6 +1,6 @@
 ---
 date: '2024-06-15'
-title: 'Data Analyst'
+title: 'Data Analytics/ Business Intelligence'
 company: 'Johnson & Johnson'
 location: 'Dallas, TX, USA'
 range: 'October 2022 - June 2024'

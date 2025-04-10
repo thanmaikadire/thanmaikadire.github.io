@@ -1,6 +1,6 @@
 ---
 date: '2025-06-30'
-title: 'Data Analyst'
+title: 'Business Intelligence/ Data Analytics/ Data Engineering'
 company: 'Southwest Airlines'
 location: 'Dallas, Teaxs, United States'
 range: 'June 2024 - Present'
