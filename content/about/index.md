@@ -5,7 +5,7 @@ skills:
   - Data Analytics 
   - Data Science 
   - AI & ML
-  - Data Engineering
+  - Gen AI Business Analytics 
   - Big Data 
   - NLP, Neural Networks
   - Project Management
@@ -18,7 +18,7 @@ skills:
 
 ---
 
-I am a recent Information Systems graduate from the prestigious University of Maryland, equipped with over six years of industry experience spanning the full spectrum of the software development lifecycle. My professional journey has been rich and varied, having contributed to projects at multinational IT services & consulting companies, I have honed my analytical acumen across diverse sectors such as healthcare, real estates, transportation, E-Commerce and product based industires. 
+I am a recent Information Systems graduate from the prestigious University of Maryland, equipped with over four years of industry experience spanning the full spectrum of the software development lifecycle. My professional journey has been rich and varied, having contributed to projects at multinational IT services & consulting companies, I have honed my analytical acumen across diverse sectors such as Finance, Automobile, E-Commerce and product based industires. 
 
 "Data is the new soil, fertile with potential and brimming with opportunity!"
 
